@@ -12,6 +12,13 @@ export default {
           third: '#eceff1'
       }
     },
+      screens: {
+      sm: '640px',
+      md: '800px', 
+      lg: '1200px',
+      xl: '1380px',
+      '2xl': '1536px',
+    },
   },
   plugins: [],
 }

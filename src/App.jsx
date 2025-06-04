@@ -1,13 +1,22 @@
 import Header from './assets/pages/Header'
 import Search from './assets/component/Search'
-import Product from './assets/pages/Product'
+import Mainproduct from './assets/pages/Mainproduct'
+import Footer from './assets/component/Footer'
+
+
+
 function App() {
 
   return (
     <>
    <Header/>
    <Search/>
-   <Product/>
+  <Mainproduct/>
+  <Footer/>
+
+
+  
+   
     </>
   )
 }

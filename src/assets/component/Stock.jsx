@@ -15,11 +15,11 @@ function App() {
 
                         <p>5.0 (10 Reviews)</p>
                           </div>
-                          <p className='text-green-700 font-bold'>In Stock</p>
+                          <p className='text-red-700 font-bold text-[14px]'>Out Of Stock</p>
                        </div>
                        <h1 className='text-2xl font-bold'>$200</h1>
                        <div className='flex justify-around items-center'>
-                        <div className='bg-black text-white w-[10rem] py-2 flex justify-center items-center'>
+                        <div className='bg-[#7c7c7c] text-white w-[10rem] py-2 flex justify-center items-center'>
                         <p>+ Add to Cart</p>
                          
                        </div>

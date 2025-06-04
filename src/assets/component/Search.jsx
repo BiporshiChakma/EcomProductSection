@@ -1,6 +1,7 @@
 import { X } from 'lucide-react';
 import { Search } from 'lucide-react';
 import { ShoppingCart } from 'lucide-react';
+
 function App() {
 
   return (
@@ -20,20 +21,20 @@ function App() {
                     
                 </div>
                 <div className="custom-gray px-2">
-                    <div className="border-r-[1.2px] border-gray-500   h-8 mt-1.5">
+                    <div className="border-r-[1.2px] border-gray-500  max-md:h-12 md:h-8 mt-1.5">
 
                     </div>
                 </div>
-                <div className="custom-gray py-2 px-4 text-[16px] max-md:text-[12px] flex justify-center items-center">
+                <div className="custom-gray py-2 px-4 text-[16px] max-md:text-[14px] flex justify-center items-center">
                     <p>running shoes</p>
                 </div>
                  <div className="custom-gray px-2">
-                    <div className="border-r-[1.2px] border-gray-500   h-8 mt-1.5">
+                    <div className="border-r-[1.2px] border-gray-500  max-md:h-12 md:h-8 mt-1.5">
 
                     </div>
                 </div>
                 <div className="">
-                    <input className="custom-gray max-md:py-5 md:py-[11.5px] outline-none w-auto md:px-10 lg:w-[30rem]"></input>
+                    <input className="custom-gray max-md:py-5 md:py-[11.5px] outline-none w-auto md:px-10 lg:w-[40rem]"></input>
                 </div>
                 <div className='custom-gray flex justify-center items-center md:px-2 px-4 max-md:rounded-r-lg'>
                     <X/>
