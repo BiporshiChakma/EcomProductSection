@@ -8,9 +8,9 @@ import { X } from 'lucide-react';
 import { ChevronUp } from 'lucide-react';
 import { Check } from 'lucide-react';
 
-import Card from '../component/Card'
-import Sale from '../component/Sale'
-import Stock from '../component/Stock'
+import Card from './assets/component/Card'
+import Sale from './assets/component/Sale'
+import Stock from './assets/component/Stock'
 function App() {
 
   return (
