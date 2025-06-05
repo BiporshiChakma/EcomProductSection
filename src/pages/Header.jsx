@@ -11,7 +11,7 @@ function App() {
                 <ShoppingCart/>
               </div>
               <div>
-                  <img src="./src/assets/img/logo.png" className="w-36"></img>
+                  <img src="./assets/img/logo.png" className="w-36"></img>
               </div>
               <div className="flex justify-center items-center max-lg:hidden">
                   <ul className="flex gap-6 text-xl">
