@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <div className='sm:w-[220px] lg:w-[230px] flex flex-col gap-2'>
-                        <img src='./public/shoes.png'></img>
+                        <img src='./shoes.png'></img>
                         <h1>Ultraboost Light Running Shoes</h1>
                        <p className='italic'>Running Shoes</p>
                        <div className='flex justify-between'>
